@@ -6,7 +6,7 @@ export const projects = [
     technologies: ['Python'],
     github: 'https://github.com/ketbogale/telegram-bot',
     demo: '',
-    image: 'src/assets/images/1_drXIbZWpNsOMPB5T7tlEaw.jpg',
+    image: '/images/1_drXIbZWpNsOMPB5T7tlEaw.jpg',
   },
   {
     id: 8,
@@ -15,7 +15,7 @@ export const projects = [
     technologies: ['Python'],
     github: 'https://github.com/ketbogale/facial-recognition',
     demo: 'https://github.com/ketbogale/facial-recognition',
-    image: 'src/assets/images/67a1040cb519f74d5c6cd7f4_thumbnail.250129.jpg',
+    image: '/images/67a1040cb519f74d5c6cd7f4_thumbnail.250129.jpg',
   },
   {
     id: 1,
@@ -42,7 +42,7 @@ export const projects = [
     technologies: ['MERN','Python'],
     github: 'https://github.com/ketbogale/Phase-II',
     demo: '',
-    image: 'src/assets/images/Gemini_Generated_Image_gj1onkgj1onkgj1o.jpg',
+    image: '/images/Gemini_Generated_Image_gj1onkgj1onkgj1o.jpg',
   },
-  
+
 ]
